@@ -10,4 +10,6 @@
 
 ## 성장
 
+- [React 18 핵심 정리](https://www.youtube.com/watch?v=7mkQi0TlJQo)
+
 ## 교양
