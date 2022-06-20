@@ -8,6 +8,8 @@
 
 ## 협업
 
+- [토스 회고](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
+
 ## 성장
 
 - [React 18 핵심 정리](https://www.youtube.com/watch?v=7mkQi0TlJQo)

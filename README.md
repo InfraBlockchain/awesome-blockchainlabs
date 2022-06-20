@@ -6,4 +6,4 @@
 
 ### [핵심 가치](https://github.com/InfraBlockchain/awesome-blockchainlabs/blob/master/CORE.md)
 
-### [유용한 아티클](https://github.com/InfraBlockchain/awesome-blockchainlabs/blob/master/USERFUL.md)
+### [유용한 아티클](https://github.com/InfraBlockchain/awesome-blockchainlabs/blob/master/USEFUL.md)
